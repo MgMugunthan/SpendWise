@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SpendWise</string>
+    <string name="notification_listener_label">SpendWise Bank Transaction Detector</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_transactions">Activity</string>
+    <string name="nav_analytics">Analytics</string>
+    <string name="nav_accounts">Accounts</string>
+    <string name="nav_settings">Settings</string>
+    <string name="estimated_tracked_balance">Estimated Tracked Balance</string>
+    <string name="balance_hidden_placeholder">••••••</string>
+    <string name="notification_access_explanation">SpendWise listens only to supported banking and messaging notifications locally on your device to extract debits and credits automatically. OTPs, promotional messages, and unrelated notifications are ignored and never leave your phone.</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "SpendWise",
+  "description": "Offline-first personal finance manager with multi-account tracking, automatic bank notification parsing, analytics, budgets, and strong local privacy controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
